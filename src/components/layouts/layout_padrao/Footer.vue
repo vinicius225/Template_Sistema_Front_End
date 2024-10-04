@@ -1,6 +1,6 @@
 <template>
-  <div class="footer">
-    <div class="flex justify-content-center flex-wrap">
+  <div class="footer pt-3 bg-primary">
+    <div class="flex justify-content-center mb-2 flex-wrap">
 Vinicius Andrade
     </div>
   </div>
